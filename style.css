@@ -1,9 +1,11 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #063;
 }
 
+body{
+    background-color: #063;
+}
 model-viewer {
     width: 100%;
     height: 600px;
