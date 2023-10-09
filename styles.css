@@ -1,0 +1,12 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+ }
+
+ /* Тут менять размер канваса */
+ /* .webgl{
+	max-height: 500px;
+	max-width: 1000px;
+ } */
+ 
